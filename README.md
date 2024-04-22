@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +45,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# to-do-list-app
+This Application built using React JS  with Typescript. Used Ant design for building UI components,CSS and Bootstrap for styling and layouts.
+User data will get stored at database. Firebase is used to store each user's to-do things.
+Created an authentication system which allows users to login with their google accounts. while logging in for the first time, the user need to signin.
+The user is able to perform all CRUD (Create,Read, Update, Delete) functionalities.
+
+
+>>>>>>> origin/main
