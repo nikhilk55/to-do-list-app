@@ -1,3 +1,5 @@
+
+
 .App {
   text-align: center;
 }
@@ -14,6 +16,7 @@
 }
 
 .App-header {
+  background-image: url("C:\Users\Nikhil Kumar\todo-list\public\image.jpg");
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -36,3 +39,5 @@
     transform: rotate(360deg);
   }
 }
+
+
