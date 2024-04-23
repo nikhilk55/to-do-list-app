@@ -8,3 +8,5 @@ Users are able to perform all the CRUD operations.
 Removed all the node modules from the folder since it's over 100 MB and I cannot send it through forms.
 
 Hosted link : https://to-do-list-by-nikhil.web.app
+
+Additionally added screenshots of the app
